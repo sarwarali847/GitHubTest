@@ -7,8 +7,11 @@ public class test {
 		int a=10;
 		if(a==10)
 			System.out.print("Value of a is 10");
+		
+		
 		else
 			System.out.print("Value of a is not found");
+		
 
 	}
 
